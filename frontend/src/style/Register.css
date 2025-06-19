@@ -1,0 +1,32 @@
+/*
+form {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+form input {
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+form button {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #45a049;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    font-weight: bold;
+}
+*/
